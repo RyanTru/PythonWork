@@ -5,12 +5,6 @@ Created on Fri Apr 10 14:06:15 2020
 @author: Ryan
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Sep  7 13:34:23 2019
-
-@author: Ryan
-"""
 
 import pyodbc
 import pandas as pd
